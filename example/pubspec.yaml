@@ -1,0 +1,17 @@
+name: sales_bot_example
+description: Example app to test the SalesBot chat
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.7.2
+  flutter_animate: ^4.5.0
+  flutter_sales_bot:
+    path: ../
+
+flutter:
+  uses-material-design: true
