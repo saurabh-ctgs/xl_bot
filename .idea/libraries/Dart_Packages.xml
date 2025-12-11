@@ -2,13 +2,6 @@
   <library name="Dart Packages" type="DartPackagesLibraryType">
     <properties>
       <option name="packageNameToDirsMap">
-        <entry key="archive">
-          <value>
-            <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/archive-4.0.7/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="async">
           <value>
             <list>
@@ -205,13 +198,6 @@
             </list>
           </value>
         </entry>
-        <entry key="lottie">
-          <value>
-            <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/lottie-3.3.2/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="matcher">
           <value>
             <list>
@@ -300,13 +286,6 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8/lib" />
-            </list>
-          </value>
-        </entry>
-        <entry key="posix">
-          <value>
-            <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/posix-6.0.3/lib" />
             </list>
           </value>
         </entry>
@@ -460,7 +439,6 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/archive-4.0.7/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/async-2.13.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/boolean_selector-2.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/cached_network_image-3.4.1/lib" />
@@ -487,7 +465,6 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.10/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/leak_tracker_testing-3.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/lints-6.0.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/lottie-3.3.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/matcher-0.12.17/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/material_color_utilities-0.11.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/meta-1.17.0/lib" />
@@ -501,7 +478,6 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/platform-3.1.6/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/posix-6.0.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/rxdart-0.28.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/shimmer-3.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/source_span-1.10.1/lib" />
